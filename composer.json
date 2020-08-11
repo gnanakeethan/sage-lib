@@ -34,7 +34,7 @@
     "illuminate/config": "~7.3.0"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "~3.3.1"
+    "squizlabs/php_codesniffer": "~3.5.6"
   },
   "scripts": {
     "test": [
